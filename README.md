@@ -52,7 +52,7 @@ The dashboard combines 4 worksheet types into a single interactive view (`Dashbo
  
 | Field Name | Logic | Purpose |
 |---|---|---|
-| `Grouping Based On Unit Price` | `IF [Unit Price] <= 500 THEN 'B' ELSEIF [Unit Price] <= 2500 THEN 'A' ELSE 'C' END` | Buckets every order into a price tier — **B** (≤ ₹500), **A** (₹501–₹2500), or **C** (> ₹2500) — enabling tier-based filtering and analysis across all four worksheets |
+| `Grouping Based On Unit Price` | `IF [Unit Price] <= 500 THEN 'B' ELSEIF [Unit Price] <= 2500 THEN 'A' ELSE 'C' END` | Buckets every order into a price tier - **B** (≤ ₹500), **A** (₹501–₹2500), or **C** (> ₹2500) - enabling tier-based filtering and analysis across all four worksheets |
  
 ---
  
