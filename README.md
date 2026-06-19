@@ -1,4 +1,4 @@
-# 🛒 Superstore Sales Tableau Dashboard
+# 🛒 Superstore Sales Analysis Dashboard - Tableau
  
 ![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Deployment](https://img.shields.io/badge/Deployed%20on-Tableau%20Public%20Cloud-E97627?style=flat-square&logo=tableau&logoColor=white)
