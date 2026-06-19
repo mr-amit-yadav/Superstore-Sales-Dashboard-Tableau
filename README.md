@@ -61,7 +61,7 @@ The dashboard combines 4 worksheet types into a single interactive view (`Dashbo
 - **Regional profit** varies noticeably across the four regions, with the Bar Chart surfacing which regions drive (or drag down) overall profitability.
 - **Order Quantity trends** over time (Line Chart) reveal seasonal/monthly fluctuations in purchasing volume.
 - **Sales share by Region** (Pie Chart) shows the proportional contribution of each region to total sales, with percentage labels for quick comparison.
-- **Profit vs. Sales** (Scatter Plot) highlights the spread of orders — useful for spotting high-sales/low-profit outliers, a common red flag in discount-heavy orders.
+- **Profit vs. Sales** (Scatter Plot) highlights the spread of orders - useful for spotting high-sales/low-profit outliers, a common red flag in discount-heavy orders.
 - The **Unit Price tier grouping** allows slicing all four views by pricing segment (B / A / C), surfacing whether certain price bands are disproportionately driving profit or loss.
 ---
  
